@@ -1,7 +1,6 @@
 import os
 import sys
 import csv
-import math
 import argparse
 import numpy as np
 import cv2
@@ -327,7 +326,7 @@ def main():
                        help='Path to YOLO weights file')
     parser.add_argument('--output', type=str, default='counts.csv', 
                        help='Output CSV file for results')
-    parser.add_argument('--mask', type=str, default='mask.png', 
+    parser.add_argument('--mask', type=str, default='masks/mask.png', 
                        help='Path to region of interest mask')
     
     args = parser.parse_args()
