@@ -62,3 +62,4 @@ Basic-Vehicle-and-Pedestrian-Counter-from-Video/
 ```
 ### Demo
 ![alt text](image.png)
+![alt text](./masks/demo2/demo2_mask_preview.png)
