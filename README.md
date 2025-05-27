@@ -9,6 +9,9 @@ ultralytics
 opencv-python 
 cvzone 
 numpy
+filterpy
+imageio
+lap
 ```
 
 ##  Setup
