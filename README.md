@@ -1,4 +1,4 @@
-# Indian Urban Traffic Vehicle and Pedestrian Counter
+# Indian Urban Traffic Analyst
 ## Features:
 1. Detects and counts **cars**, **buses**, **trucks**, **motorcycles**, and **pedestrians** in Indian urban traffic videos using YOLOv8 and SORT tracker.
 2. Create masks (region of interest (ROI) filter that defines which areas of the video frame should be analyzed for object detection and counting) for different videos. 
